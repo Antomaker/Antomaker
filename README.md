@@ -25,6 +25,16 @@ I build backend services with Java and Spring Boot, and I teach other people to 
 | [Alura-Hotel-Challenge](https://github.com/Antomaker/Alura-Hotel-Challenge) | Hotel reservation CRUD in Java with JDBC and Swing (Oracle Next Education back-end challenge) |
 | [Convertidor-De-Moneda](https://github.com/Antomaker/Convertidor-De-Moneda) | Currency converter in Java (Oracle Next Education challenge) |
 
+## 3D & Three.js
+
+I come from multimedia engineering, so I also build for the browser in 3D.
+
+| Project | Status | What it is |
+|---|---|---|
+| **Templo de Orbes** | In development | A programming game for PC: the player explores a neon 3D temple built with Three.js and activates orbs that open practice rooms on system design and design patterns. First level: a load balancer. |
+
+Playable demos will be linked here as they ship.
+
 ## Next up
 
 A production-style REST API with Spring Boot 3, PostgreSQL, JWT security, automated tests, Docker and CI.
