@@ -10,10 +10,10 @@ I build backend services with Java and Spring Boot, and I teach other people to 
 
 ## Tech
 
-**Backend:** Java · Spring Boot · JPA / Hibernate · JDBC · REST APIs · Node.js (Express)
-**Data:** PostgreSQL · MySQL · MongoDB
-**Frontend:** JavaScript · TypeScript · React
-**Tools:** Git · GitHub · GitLab · Scrum · AI-assisted development
+- **Backend:** Java · Spring Boot · JPA / Hibernate · JDBC · REST APIs · Node.js (Express)
+- **Data:** PostgreSQL · MySQL · MongoDB
+- **Frontend:** JavaScript · TypeScript · React
+- **Tools:** Git · GitHub · GitLab · Scrum · AI-assisted development
 
 ## Selected work
 
